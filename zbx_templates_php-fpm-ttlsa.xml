@@ -562,7 +562,7 @@
     </triggers>
     <graphs>
         <graph>
-            <name>php-fpm processes</name>
+            <name>PHP-FPM processes</name>
             <width>900</width>
             <height>200</height>
             <yaxismin>0.0000</yaxismin>
@@ -630,7 +630,7 @@
             </graph_items>
         </graph>
         <graph>
-            <name>php-fpm slow requests</name>
+            <name>PHP-FPM slow requests</name>
             <width>900</width>
             <height>200</height>
             <yaxismin>0.0000</yaxismin>
@@ -662,7 +662,7 @@
             </graph_items>
         </graph>
         <graph>
-            <name>php listen queue</name>
+            <name>PHP listen queue</name>
             <width>900</width>
             <height>200</height>
             <yaxismin>0.0000</yaxismin>
