@@ -757,8 +757,8 @@
             <graph_items>
                 <graph_item>
                     <sortorder>0</sortorder>
-                    <drawtype>0</drawtype>
-                    <color>C80000</color>
+                    <drawtype>5</drawtype>
+                    <color>00C8C8</color>
                     <yaxisside>0</yaxisside>
                     <calc_fnc>2</calc_fnc>
                     <type>0</type>
@@ -769,8 +769,8 @@
                 </graph_item>
                 <graph_item>
                     <sortorder>1</sortorder>
-                    <drawtype>0</drawtype>
-                    <color>00C8C8</color>
+                    <drawtype>5</drawtype>
+                    <color>C80000</color>
                     <yaxisside>0</yaxisside>
                     <calc_fnc>2</calc_fnc>
                     <type>0</type>
